@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import time
 
 from scrapy.exceptions import DropItem
 
@@ -65,4 +66,5 @@ class NotifyPipeline:
 
     def process_item(self, item, spider):
         send_whatsapp(item)
+        time.sleep(3)  # Rate limit do CallMeBot
         return item
