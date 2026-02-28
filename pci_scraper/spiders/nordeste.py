@@ -65,11 +65,10 @@ class NordesteSpider(scrapy.Spider):
             else:
                 vagas = vagas_salario
 
-            prazo = element.css("div.ce span::text").get("").strip()
-            prazo_parts = element.css("div.ce span *::text").getall()
-            if prazo_parts:
-                prazo = " ".join(p.strip() for p in [prazo] + prazo_parts if p.strip())
-                prazo = re.sub(r"\s+", " ", prazo).strip()
+            # Collect all text nodes inside div.ce span (including nested)
+            prazo_all = element.css("div.ce span ::text").getall()
+            prazo = " ".join(p.strip() for p in prazo_all if p.strip())
+            prazo = re.sub(r"\s+", " ", prazo).strip()
 
             item_id = hashlib.md5(f"{titulo}:{estado}:{url}".encode()).hexdigest()
 

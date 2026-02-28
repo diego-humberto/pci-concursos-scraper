@@ -49,6 +49,13 @@ class DeduplicatePipeline:
         self.seen[item_id] = {
             "titulo": item.get("titulo", ""),
             "estado": item.get("estado", ""),
+            "vagas": item.get("vagas", ""),
+            "salario": item.get("salario", ""),
+            "escolaridade": item.get("escolaridade", ""),
+            "cargos": item.get("cargos", ""),
+            "prazo_inscricao": item.get("prazo_inscricao", ""),
+            "url": item.get("url", ""),
+            "url_edital": item.get("url_edital", ""),
         }
         return item
 
