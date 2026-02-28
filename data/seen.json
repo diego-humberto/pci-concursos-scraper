@@ -1,1 +1,150 @@
-{}
+{
+  "5901b66a63f35cac8bdc9a87c5af5f0c": {
+    "titulo": "Prefeitura de Santo Amaro das Brotas",
+    "estado": "SE"
+  },
+  "1344f450035ee4edded67da03ca207f6": {
+    "titulo": "Prefeitura de Pedra Mole",
+    "estado": "SE"
+  },
+  "f2e29ac5a232d84c421642678c897761": {
+    "titulo": "Prefeitura de Pedra Mole",
+    "estado": "SE"
+  },
+  "66e1653eea233f9066243a90714f6483": {
+    "titulo": "UFRN - Universidade Federal do Rio Grande do Norte",
+    "estado": "RN"
+  },
+  "d6eacc9385756880e3e4aa2dc8a23635": {
+    "titulo": "Prefeitura de Vera Cruz",
+    "estado": "RN"
+  },
+  "814e17d2d7e81e799a4ead313eca8753": {
+    "titulo": "Prefeitura de São Fernando",
+    "estado": "RN"
+  },
+  "62c9aae575807b6a285e92e8ed606739": {
+    "titulo": "Prefeitura de Acari",
+    "estado": "RN"
+  },
+  "c07d1e5a5ff3029d3a62ff2c9ebf14b5": {
+    "titulo": "CRMV - Conselho Regional de Medicina Veterinária do Rio Grande do Norte",
+    "estado": "RN"
+  },
+  "ec9863616899611632462e3dfd1788ed": {
+    "titulo": "SEE - Secretaria de Educação de Pernambuco",
+    "estado": "PE"
+  },
+  "2095f76f710e701aff6627f3ed04925d": {
+    "titulo": "Prefeitura de Terezinha",
+    "estado": "PE"
+  },
+  "519505481586cda999f57c87f1549405": {
+    "titulo": "Prefeitura de Limoeiro",
+    "estado": "PE"
+  },
+  "493f1e825cb97352bc310aa8c5f00c31": {
+    "titulo": "Prefeitura de Joaquim Nabuco",
+    "estado": "PE"
+  },
+  "0af51037accbc7d1dac61d23570c1fe7": {
+    "titulo": "IFSertãoPE - Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano",
+    "estado": "PE"
+  },
+  "df1403a2eb82b9731e554a7e03187e30": {
+    "titulo": "AEB - Autarquia Educacional de Belo Jardim",
+    "estado": "PE"
+  },
+  "9d86e27f7582ac72358015d1ddfe401c": {
+    "titulo": "UFPB - Universidade Federal da Paraíba",
+    "estado": "PB"
+  },
+  "1fe770a741ae78e7b8b92555b3e67de4": {
+    "titulo": "Prefeitura de São José dos Cordeiros",
+    "estado": "PB"
+  },
+  "673504fdc8fb5ca7032e11626bdb578c": {
+    "titulo": "Prefeitura de Monteiro",
+    "estado": "PB"
+  },
+  "a6b19fcf7f93e7d7f955bd21a7506134": {
+    "titulo": "Prefeitura de Itatuba",
+    "estado": "PB"
+  },
+  "144e5f8f721b24a775b2f1da387ef536": {
+    "titulo": "Prefeitura de Araçagi",
+    "estado": "PB"
+  },
+  "e9ccbbd1174310475855e0c423dca090": {
+    "titulo": "Câmara de Mogeiro",
+    "estado": "PB"
+  },
+  "fafc45f3cfa0bfd1d991843b0611f475": {
+    "titulo": "TJBA - Tribunal de Justiça do Estado da Bahia",
+    "estado": "BA"
+  },
+  "ac977a44c19b30ff8e102d88fda60520": {
+    "titulo": "TJ-BA - Tribunal de Justiça do Estado da Bahia",
+    "estado": "BA"
+  },
+  "54f788d86cbaabfa2f92fdedd4c97d84": {
+    "titulo": "TJ - Tribunal de Justiça do Estado da Bahia",
+    "estado": "BA"
+  },
+  "99da2262702ce973f127df798328ab4e": {
+    "titulo": "Prefeitura de São Sebastião do Passé",
+    "estado": "BA"
+  },
+  "3042a5a0420f20820555da4134fb7002": {
+    "titulo": "Prefeitura de Mansidão",
+    "estado": "BA"
+  },
+  "ce1d17587ca636c05fc734ffdfa33905": {
+    "titulo": "Prefeitura de Barra do Choça",
+    "estado": "BA"
+  },
+  "19d08d2288ffbd982a948c6e584f38bc": {
+    "titulo": "IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+    "estado": "BA"
+  },
+  "38972adc1700e9f266347da94a04163a": {
+    "titulo": "IF Baiano - Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+    "estado": "BA"
+  },
+  "2eafcbd45feab114f9973cdfdb2a4c12": {
+    "titulo": "FESF-SUS - Fundação Estatal Saúde da Família",
+    "estado": "BA"
+  },
+  "ffcc4adc3d9e0e727db87be03d10e02e": {
+    "titulo": "DPE - Defensoria Pública do Estado da Bahia",
+    "estado": "BA"
+  },
+  "9dcc8b214933efe68091246c5f152600": {
+    "titulo": "CISRP - Consórcio Público Interfederativo de Saúde da Região de Paulo Afonso",
+    "estado": "BA"
+  },
+  "df1d333a986e33511893972d0b90323a": {
+    "titulo": "DPE - Defensoria Pública do Estado da Bahia",
+    "estado": "BA"
+  },
+  "23fc151156d914b8c9b5607e942bcb0e": {
+    "titulo": "UFAL - Universidade Federal de Alagoas",
+    "estado": "AL"
+  },
+  "692915deb468f513f606c7bcada0e815": {
+    "titulo": "Prefeitura de Teotônio Vilela",
+    "estado": "AL"
+  },
+  "2d286bea531d626aaaaf42d4cd3bbca9": {
+    "titulo": "Prefeitura de Delmiro Gouveia",
+    "estado": "AL"
+  },
+  "84024265ccd313274d8877c0e90aa490": {
+    "titulo": "Câmara de Palmeira dos Índios",
+    "estado": "AL"
+  },
+  "a149b8914d1b6eccb8a667d7c916ba24": {
+    "titulo": "MPAL - Ministério Público do Estado Alagoas",
+    "estado": "AL"
+  }
+}
