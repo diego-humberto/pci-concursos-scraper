@@ -2132,5 +2132,82 @@
     "prazo_inscricao": "13 a 15/05/2026",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-princesa-isabel-pb-abre-selecao-com-15-vagas-na-area-da-saude",
     "url_edital": "https://arq.pciconcursos.com.br/prefeitura-de-princesa-isabel-pb-abre-selecao-com-15-vagas-na-area-da-saude/1699246/c698d199da/edital_de_processo_seletivo_simplificado_n_03_2026_1699246.pdf"
+  },
+  "5fa0c11c63dc52f85656ebfb237e956d": {
+    "titulo": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+    "estado": "RN",
+    "vagas": "4",
+    "salario": "R$ 8.340,33",
+    "escolaridade": "Superior",
+    "cargos": "Professor Substituto",
+    "prazo_inscricao": "11 a 24/05/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/ifrn-abre-processo-seletivo-com-quatro-vagas-para-professores-substitutos",
+    "url_edital": "https://arq.pciconcursos.com.br/ifrn-abre-processo-seletivo-com-quatro-vagas-para-professores-substitutos/1699389/3a7a602f6f/edital_n_50_2026_1699389.pdf"
+  },
+  "762639403eee7ce03e1b58b5ec2a5dc1": {
+    "titulo": "Prefeitura de Casinhas",
+    "estado": "PE",
+    "vagas": "19",
+    "salario": "R$ 10.000,00",
+    "escolaridade": "Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "19/05/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-casinhas-pe-abre-processos-seletivos-para-profissionais-de-nivel-superior-na-saude",
+    "url_edital": "https://arq.pciconcursos.com.br/prefeitura-de-casinhas-pe-abre-processos-seletivos-para-profissionais-de-nivel-superior-na-saude/1699365/e7c09be19d/edital_do_processo_seletivo_simplificado_n_01_2026_1699365.pdf"
+  },
+  "beb64a8d8f5ef851ea01016fa17e610f": {
+    "titulo": "UFPB - Universidade Federal da Paraíba",
+    "estado": "PB",
+    "vagas": "5",
+    "salario": "R$ 4.326,60",
+    "escolaridade": "Superior",
+    "cargos": "Professor Substituto",
+    "prazo_inscricao": "11 a 21/05/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/ufpb-abre-processo-seletivo-com-vagas-para-professores-substitutos-do-ensino-basico-tecnico-e-tecnologico",
+    "url_edital": "https://arq.pciconcursos.com.br/ufpb-abre-processo-seletivo-com-vagas-para-professores-substitutos-do-ensino-basico-tecnico-e-tecnologico/1699437/f64e38275f/edital_n_64_2026_1699437.pdf"
+  },
+  "38abf8e8db0f415c59e909f4dbe5d75a": {
+    "titulo": "IF Baiano - Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+    "estado": "BA",
+    "vagas": "1",
+    "salario": "R$ 8.058,29",
+    "escolaridade": "Superior",
+    "cargos": "Professor Substituto",
+    "prazo_inscricao": "19 a 25/05/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/if-baiano-abre-processo-seletivo-para-professor-substituto-de-geografia-no-campus-guanambi",
+    "url_edital": "https://arq.pciconcursos.com.br/if-baiano-abre-processo-seletivo-para-professor-substituto-de-geografia-no-campus-guanambi/1699431/0741f6da9e/edital_n_94_1699431.pdf"
+  },
+  "c6b005e26fc6f884c4ac44e9baf58375": {
+    "titulo": "IF Baiano - Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+    "estado": "BA",
+    "vagas": "1",
+    "salario": "R$ 8.340,33",
+    "escolaridade": "Superior",
+    "cargos": "Professor Substituto",
+    "prazo_inscricao": "11 a 16/05/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/if-baiano-abre-selecao-para-professor-substituto-em-atendimento-educacional-especializado",
+    "url_edital": "https://arq.pciconcursos.com.br/if-baiano-abre-selecao-para-professor-substituto-em-atendimento-educacional-especializado/1699340/594fda99d2/edital_n_95_1699340.pdf"
+  },
+  "1954b67b2143c69f37810565d9430f69": {
+    "titulo": "PMVC - Prefeitura de Vitória da Conquista",
+    "estado": "BA",
+    "vagas": "227",
+    "salario": "R$ 3.001,25",
+    "escolaridade": "Médio / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "Prorrogado até 12/05/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitoria-da-conquista-ba-prorroga-inscricoes-para-o-processo-seletivo-com-vagas-na-educacao",
+    "url_edital": "https://arq.pciconcursos.com.br/prefeitura-de-vitoria-da-conquista-ba-prorroga-inscricoes-para-o-processo-seletivo-com-vagas-na-educacao/1698341/63b4a28ca5/edital_de_processo_seletivo_simplificado_n_002_2026_1698341.pdf"
+  },
+  "e33f492bfe4e4a1ac9d6d6f3da085dec": {
+    "titulo": "FAPEAL - Fundação de Amparo à Pesquisa do Estado de Alagoas",
+    "estado": "AL",
+    "vagas": "10",
+    "salario": "R$ 5.767,15",
+    "escolaridade": "Superior",
+    "cargos": "Gestor Especializado em Ciência e Tecnologia",
+    "prazo_inscricao": "15/05 a 19/06/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/fapeal-publica-edital-de-concurso-publico-para-gestor-especializado-em-ciencia-e-tecnologia",
+    "url_edital": "https://arq.pciconcursos.com.br/fapeal-publica-edital-de-concurso-publico-para-gestor-especializado-em-ciencia-e-tecnologia/1699386/cd932e84df/edital_n_1_1699386.pdf"
   }
 }
