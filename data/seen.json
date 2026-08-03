@@ -4420,5 +4420,27 @@
     "prazo_inscricao": "04/09/2026",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaborandi-ba-abre-concurso-publico-com-diversas-vagas",
     "url_edital": "javascript:void(0);"
+  },
+  "352ededa1b5cd0d85ed8994d0edfc83f": {
+    "titulo": "Prefeitura de Canhotinho",
+    "estado": "PE",
+    "vagas": "8",
+    "salario": "R$ 27,71",
+    "escolaridade": "Superior",
+    "cargos": "Professor da Educação Básica",
+    "prazo_inscricao": "07/08/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canhotinho-pe-abre-processo-seletivo-para-professores-bilingues",
+    "url_edital": "javascript:void(0);"
+  },
+  "42a1d3bdb0c98cf7774aedcb6e94578f": {
+    "titulo": "SEAGRI - Secretaria da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura",
+    "estado": "BA",
+    "vagas": "35",
+    "salario": "R$ 3.810,40",
+    "escolaridade": "Médio / Superior",
+    "cargos": "Técnico de Nível Superior, Técnico de Nível Médio",
+    "prazo_inscricao": "13 a 21/08/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/seagri-ba-abre-selecao-com-vagas-para-niveis-medio-e-superior",
+    "url_edital": "javascript:void(0);"
   }
 }
