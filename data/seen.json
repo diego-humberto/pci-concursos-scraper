@@ -5069,5 +5069,38 @@
     "prazo_inscricao": "14/09 a 13/10/2026",
     "url": "https://www.pciconcursos.com.br/noticias/ufrpe-abre-concurso-com-vagas-para-professores-do-magisterio-superior",
     "url_edital": "javascript:void(0);"
+  },
+  "2121f533f48868e4ea881ef05a0499db": {
+    "titulo": "Prefeitura de Trindade",
+    "estado": "PE",
+    "vagas": "353",
+    "salario": "R$ 6.600,00",
+    "escolaridade": "Médio / Técnico / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "10/09 a 19/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-pe-publica-edital-de-concurso-com-vagas-para-diversos-niveis",
+    "url_edital": "javascript:void(0);"
+  },
+  "d94308d27117397c8a3cf3833c5034a0": {
+    "titulo": "Câmara de Trindade",
+    "estado": "PE",
+    "vagas": "11",
+    "salario": "R$ 2.500,00",
+    "escolaridade": "Fundamental / Médio / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "08/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-trindade-pe-abre-concurso-publico-com-salarios-de-ate-2500",
+    "url_edital": "javascript:void(0);"
+  },
+  "a3cff0e0ee46e162c777f6e334e8d2a3": {
+    "titulo": "PMAL - Polícia Militar do Estado de Alagoas",
+    "estado": "AL",
+    "vagas": "530",
+    "salario": "R$ 11.563,77",
+    "escolaridade": "Ensino Médio",
+    "cargos": "Oficial de Estado-Maior, Soldado do Quadro de Praças",
+    "prazo_inscricao": "Reabertura de 14/09 a 16/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/pm-al-reabre-concurso-para-soldado-do-quadro-de-pracas-e-oficial-de-estado-maior",
+    "url_edital": "javascript:void(0);"
   }
 }
