@@ -5201,5 +5201,38 @@
     "prazo_inscricao": "Prorrogado até 02/10/2026",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-exu-pe-retifica-edital-de-concurso-publico",
     "url_edital": "javascript:void(0);"
+  },
+  "527f1d558baf06da470e661a030a9af3": {
+    "titulo": "UFRN - Universidade Federal do Rio Grande do Norte",
+    "estado": "RN",
+    "vagas": "9",
+    "salario": "R$ 14.945,96",
+    "escolaridade": "Superior",
+    "cargos": "Professor do Magistério Superior",
+    "prazo_inscricao": "28/09 a 23/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/ufrn-abre-concurso-para-professores-do-magisterio-superior",
+    "url_edital": "javascript:void(0);"
+  },
+  "9ac8acea9abcd512ee92a16b4c7d2e01": {
+    "titulo": "Prefeitura de São Vicente Férrer",
+    "estado": "PE",
+    "vagas": "35",
+    "salario": "R$ 1621,00",
+    "escolaridade": "Ensino Médio",
+    "cargos": "Profissional de Apoio Escolar (Educação Inclusiva)",
+    "prazo_inscricao": "18 a 24/09/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-ferrer-pe-abre-35-vagas-para-profissionais-de-apoio-escolar",
+    "url_edital": "javascript:void(0);"
+  },
+  "41f8ee76986e74460892d1630b1f1445": {
+    "titulo": "CBMAL - Corpo de Bombeiros Militar de Alagoas",
+    "estado": "AL",
+    "vagas": "172",
+    "salario": "R$ 11.563,77",
+    "escolaridade": "Ensino Médio",
+    "cargos": "Oficial de Estado-Maior, Soldado",
+    "prazo_inscricao": "Reabertura de 18/09 a 26/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/cbm-al-reabre-inscricoes-de-concurso-publico",
+    "url_edital": "javascript:void(0);"
   }
 }
