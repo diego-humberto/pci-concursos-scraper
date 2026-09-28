@@ -5608,5 +5608,38 @@
     "prazo_inscricao": "18/10/2026",
     "url": "https://www.pciconcursos.com.br/noticias/senar-ar-ba-abre-processo-seletivo-com-salarios-de-ate-6948",
     "url_edital": "javascript:void(0);"
+  },
+  "05ad951e0bbb1edf3cdc630088c7a78e": {
+    "titulo": "Câmara de Acari",
+    "estado": "RN",
+    "vagas": "2",
+    "salario": "R$ 2.750,00",
+    "escolaridade": "Superior",
+    "cargos": "Assessor Jurídico, Auditor de Controle Interno",
+    "prazo_inscricao": "27/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-acari-rn-abre-concurso-publico-para-assessor-juridico-e-auditor-de-controle-interno",
+    "url_edital": "javascript:void(0);"
+  },
+  "00c1c12ce02fe7c2fa7e60e2a9df84e4": {
+    "titulo": "Prefeitura do Recife",
+    "estado": "PE",
+    "vagas": "45",
+    "salario": "R$ 5.587,46",
+    "escolaridade": "Médio / Superior",
+    "cargos": "Músico",
+    "prazo_inscricao": "28/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-do-recife-pe-abre-concurso-publico-com-vagas-para-musicos",
+    "url_edital": "javascript:void(0);"
+  },
+  "e8bb92f3fad67f80d0b2c6e347fa4564": {
+    "titulo": "UFBA - Universidade Federal da Bahia",
+    "estado": "BA",
+    "vagas": "139",
+    "salario": "R$ 5.215,39",
+    "escolaridade": "Médio / Técnico / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "29/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/ufba-ba-publica-edital-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
+    "url_edital": "javascript:void(0);"
   }
 }
