@@ -5663,5 +5663,38 @@
     "prazo_inscricao": "06/10/2026",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cabedelo-pb-abre-processo-seletivo-para-professores",
     "url_edital": "javascript:void(0);"
+  },
+  "2e43cb284703c75bc5404e8de01687c3": {
+    "titulo": "UPE - Universidade de Pernambuco",
+    "estado": "PE",
+    "vagas": "2",
+    "salario": "R$ 4.165,25",
+    "escolaridade": "Superior",
+    "cargos": "Advogado",
+    "prazo_inscricao": "02/10 a 02/11/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/universidade-de-pernambuco-abre-concurso-publico-para-o-cargo-de-advogado",
+    "url_edital": "javascript:void(0);"
+  },
+  "2a7dd29595f0f697931e4cd6057fddc7": {
+    "titulo": "PMPE - Polícia Militar de Pernambuco",
+    "estado": "PE",
+    "vagas": "1320",
+    "salario": "R$ 12.937,33",
+    "escolaridade": "Médio / Superior",
+    "cargos": "Soldado, 2º Tenente",
+    "prazo_inscricao": "05/10 a 05/11/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/pmpe-abre-concurso-publico-para-soldados-e-oficiais",
+    "url_edital": "javascript:void(0);"
+  },
+  "004ff3e1276b466dee32d5d8e401385c": {
+    "titulo": "CBM - Corpo de Bombeiros Militar de Pernambuco",
+    "estado": "PE",
+    "vagas": "570",
+    "salario": "R$ 12.937,33",
+    "escolaridade": "Médio / Superior",
+    "cargos": "Soldado do Corpo de Bombeiros Militar, 2º Tenente do Corpo de Bombeiros Militar",
+    "prazo_inscricao": "05/10 a 05/11/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-pe-anuncia-concurso-com-570-vagas-para-bombeiros",
+    "url_edital": "javascript:void(0);"
   }
 }
