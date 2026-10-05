@@ -5751,5 +5751,49 @@
     "prazo_inscricao": "06/10 a 06/11/2026",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-abre-concursos-publicos-para-diversos-cargos",
     "url_edital": "javascript:void(0);"
+  },
+  "94648c5ec340f11970afbaaba8a281c5": {
+    "titulo": "Prefeitura de São Fernando",
+    "estado": "RN",
+    "vagas": "22",
+    "salario": "R$ 4.101,05",
+    "escolaridade": "Fundamental / Médio / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "27/10/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-fernando-rn-retifica-edital-de-concurso-publico-com-salarios-de-ate-4101",
+    "url_edital": "javascript:void(0);"
+  },
+  "07109ea265d9fb9d82ee5e0eaa526484": {
+    "titulo": "SDS - Secretaria de Defesa Social",
+    "estado": "PE",
+    "vagas": "1.315 vagas até R$ 13.560,00",
+    "salario": "",
+    "escolaridade": "Superior",
+    "cargos": "Agente de Polícia, Delegado de Polícia, Escrivão de Polícia",
+    "prazo_inscricao": "15/10 a 16/12/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-e-de-administracao-pe-abrem-concurso-com-1315-vagas-para-a-policia-civil",
+    "url_edital": "javascript:void(0);"
+  },
+  "ca92fc808c8d781682d038b3d0dd753f": {
+    "titulo": "Prefeitura de São José do Sabugi",
+    "estado": "PB",
+    "vagas": "48",
+    "salario": "R$ 3.847,97",
+    "escolaridade": "Fundamental / Médio / Técnico / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "07/11/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-sabugi-pb-abre-concurso-para-diversos-cargos",
+    "url_edital": "javascript:void(0);"
+  },
+  "7165e72f6ba1057adab612b7d0db4d8f": {
+    "titulo": "Prefeitura de Catu",
+    "estado": "BA",
+    "vagas": "148",
+    "salario": "R$ 4.690,16",
+    "escolaridade": "Médio / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "Prorrogado até 12/11/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catu-ba-prorroga-inscricoes-do-concurso-publico-para-diversos-cargos",
+    "url_edital": "javascript:void(0);"
   }
 }
