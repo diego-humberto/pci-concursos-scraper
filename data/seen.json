@@ -6356,5 +6356,49 @@
     "prazo_inscricao": "22/11/2026",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itiuba-ba-abre-processo-seletivo-para-profissionais-de-saude",
     "url_edital": "javascript:void(0);"
+  },
+  "5fe054f53829cbf6259f90a84b5f52d5": {
+    "titulo": "PC - Polícia Civil",
+    "estado": "PE",
+    "vagas": "1.315 vagas até R$ 13.560,00",
+    "salario": "",
+    "escolaridade": "Superior",
+    "cargos": "Agente de Polícia, Delegado de Polícia, Escrivão de Polícia",
+    "prazo_inscricao": "16/12/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-e-de-administracao-pe-retificam-concurso-para-a-policia-civil",
+    "url_edital": "javascript:void(0);"
+  },
+  "00f0a17d833f1d8c5d83e0c092964cf7": {
+    "titulo": "Prefeitura de Baía da Traição",
+    "estado": "PB",
+    "vagas": "117",
+    "salario": "R$ 10.000,00",
+    "escolaridade": "Fundamental / Médio / Técnico / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "17/11 a 16/12/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-baia-da-traicao-pb-abre-concurso-publico-com-vagas-em-diversos-cargos",
+    "url_edital": "javascript:void(0);"
+  },
+  "b66654c036075b6948e9567d08baf7d3": {
+    "titulo": "Prefeitura de Tucano",
+    "estado": "BA",
+    "vagas": "83",
+    "salario": "R$ 3.000,00",
+    "escolaridade": "Médio / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "25/11/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucano-ba-abre-processo-seletivo-com-83-vagas",
+    "url_edital": "javascript:void(0);"
+  },
+  "14a5efb13fb1ddb24f101d6cd70473db": {
+    "titulo": "Prefeitura de Aracatu",
+    "estado": "BA",
+    "vagas": "278",
+    "salario": "R$ 2.565,32",
+    "escolaridade": "Fundamental / Médio / Superior",
+    "cargos": "Vários Cargos",
+    "prazo_inscricao": "Prorrogado até 15/11/2026",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracatu-ba-retifica-edital-de-processo-seletivo-para-a-secretaria-de-educacao",
+    "url_edital": "javascript:void(0);"
   }
 }
